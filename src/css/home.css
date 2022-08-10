@@ -1,0 +1,15 @@
+.grid__wrapper {
+  padding: 20px;
+  margin: 15px 0;
+  font-family: 'Helvetica', sans-serif;
+  font-size: 10px;
+}
+
+.grid__wrapper h1 {
+  color: #f08040;
+}
+
+.grid__wrapper p {
+  margin-top: 15px;
+  font-size: 15px;
+}

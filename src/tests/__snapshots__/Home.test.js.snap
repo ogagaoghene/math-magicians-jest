@@ -1,0 +1,23 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Snapshot testing Check if Home component is rendered 1`] = `
+<div
+  className="grid__wrapper"
+>
+  <h1>
+    Welcome to Our Page!
+  </h1>
+  <p>
+    Lorem ipsum, dolor sit amet consectetur adipisicing elit. Amet esse aperiam reprehenderit repudiandae quod vitae? Eius perspiciatis expedita porro quos accusamus odio non, consequatur provident enim, assumenda distinctio aperiam dolores.
+  </p>
+  <p>
+    Lorem ipsum, dolor sit amet consectetur adipisicing elit. Amet esse aperiam reprehenderit repudiandae quod vitae? Eius perspiciatis expedita porro quos accusamus odio non, consequatur provident enim, assumenda distinctio aperiam dolores.
+  </p>
+  <p>
+    Lorem ipsum, dolor sit amet consectetur adipisicing elit. Amet esse aperiam reprehenderit repudiandae quod vitae? Eius perspiciatis expedita porro quos accusamus odio non, consequatur provident enim, assumenda distinctio aperiam dolores.
+  </p>
+  <p>
+    Lorem ipsum, dolor sit amet consectetur adipisicing elit. Amet esse aperiam reprehenderit repudiandae quod vitae? Eius perspiciatis expedita porro quos accusamus odio non, consequatur provident enim, assumenda distinctio aperiam dolores.
+  </p>
+</div>
+`;

@@ -1,5 +1,5 @@
-import '@testing-library/jest-dom/extend-expect';
-import { render, screen } from '@testing-library/react';
+import React from 'react';
+import { render } from '@testing-library/react';
 import renderer from 'react-test-renderer';
 import Quotes from '../Components/Quotes';
 
@@ -10,8 +10,7 @@ describe('Snapshot testing', () => {
   });
 
   it('renders quote', () => {
-    render(<Quotes />);
-    const linkElement = screen.getByText(/Mathematics is not about numbers, equations, computations, or algorithms. It is about understanding./i);
-    expect(linkElement).toBeInTheDocument();
+    const { getByText } = render(<Quotes />);
+    expect(getByText('Mathematics is not about numbers, equations, computations, or algorithms. It is about understanding.')).toBeInTheDocument();
   });
 });

@@ -10,7 +10,7 @@ describe('Snapshot testing', () => {
   });
 
   it('renders quote', () => {
-    const { getByText } = render(<Quotes />);
+    render(<Quotes />);
     expect(screen.getByText('Mathematics is not about numbers, equations, computations, or algorithms. It is about understanding.')).toBeInTheDocument();
   });
 });

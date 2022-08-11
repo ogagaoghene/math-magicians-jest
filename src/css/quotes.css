@@ -1,0 +1,16 @@
+.grid__container {
+  display: grid;
+  width: 700px;
+  height: auto;
+  border: 1px solid black;
+  margin: 150px auto;
+  padding: 2.5rem;
+  justify-content: center;
+  align-items: center;
+  line-height: 1.5rem;
+  border-radius: 6px;
+  background-color: #f08040;
+  color: #000;
+  font-family: 'Helvetica', sans-serif;
+  font-size: 15px;
+}

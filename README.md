@@ -31,6 +31,11 @@ $ npm test
 - Twitter: [@esi_ogaga](https://twitter.com/esi_ogaga)
 - LinkedIn: [ogagaoghene](https://linkedin.com/in/ogagaoghene-esi-7a478647)
 
+👤 Angom Chittaranjan
+
+- GitHub: [@AngomRanjan](https://github.com/AngomRanjan)
+- Twitter: [@RanjanAngom](https://twitter.com/RanjanAngom)
+- LinkedIn: [angom-chittaranjan](https://linkedin.com/in/angom-chittaranjan)
 
 ## 🤝 Contributing
 

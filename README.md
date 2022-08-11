@@ -10,8 +10,8 @@ Clone this repository
 - cd math_magicians-app
 
 ## Run project
-- npm run build
-- npm run start 
+- npm run start
+- npm run build 
 
 ## Run tests
 To run the test just use the following command!

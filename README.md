@@ -32,6 +32,13 @@ Start the server
 ```bash
   npm run start
 ```
+## Running Tests
+
+To run tests, run the following command 
+
+```bash
+  npm run test
+```
 
 ## Author
 
